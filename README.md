@@ -26,5 +26,14 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-
+##SPA vs MPA
 ![Alt text](./Screenshot1.png?raw=true "Optional Title")
+
+## Angular Architecture
+![Alt text](./Screenshot2.png?raw=true "Optional Title")
+
+## Angular IMP Commands
+![Alt text](./Screenshot3.png?raw=true "Optional Title")
+
+## Other IMP Commands
+![Alt text](./Screenshot4.png?raw=true "Optional Title")
